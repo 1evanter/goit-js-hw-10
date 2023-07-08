@@ -11,7 +11,9 @@ const refs = {
     errorEl: document.querySelector('.error'),
 };
 
-document.body.style.backgroundColor = 'rgb(40, 161, 205)';
+
+document.body.style.backgroundColor = '#52ACFF';
+
 refs.catInfoEl.style.maxWidth = '50%';
 refs.catInfoEl.style.margin = '15px';
 
